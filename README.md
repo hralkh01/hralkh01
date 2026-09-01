@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm majoring in computer science and engineering.
+I design and build whatever I can imagine.
 <!--
 **hralkh01/hralkh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
