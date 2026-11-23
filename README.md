@@ -1,4 +1,4 @@
-Majoring in Computer Science and Engineering. Focused on designing and building.
+Majoring in Computer Science and Engineering at J.B speed school of engineering UofL. Focused on designing and building.
 
 # Tech Stack
 
