@@ -17,10 +17,8 @@ jobs:
         with:
           github_user_name: hralkh01
           outputs: |
-         dist/github-contribution-grid-snake.svg?color_snake=00BFFF&color_dots=#ebedf0,#ffd1b0,#ffb380,#ff8c42,#f76900
-         dist/github-contribution-grid-snake-dark.svg?color_snake=00BFFF&color_dots=#161b22,#4d2a0a,#8a4b08,#c96a00,#f76900
-
-      - uses: crazy-max/ghaction-github-pages@v4
+         dist/github-contribution-grid-snake.svg?color_snake=blue&color_dots=#ebedf0,#ffd1b0,#ffb380,#ff8c42,#f76900
+         dist/github-contribution-grid-snake-dark.svg?color_snake=blue&color_dots=#161b22,#4d2a0a,#8a4b08,#c96a00,#f76900
         with:
           target_branch: output
           build_dir: dist
