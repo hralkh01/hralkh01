@@ -3,9 +3,7 @@ Majoring in Computer Science and Engineering. Focused on designing and building.
 # Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp,py,mysql,git,linux" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,java,js,ts,c,cpp,py,mysql,git,linux" />
 </div>
 
 # GitHub Stats
