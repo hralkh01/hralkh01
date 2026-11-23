@@ -10,11 +10,11 @@ Majoring in Computer Science and Engineering. Focused on designing and building.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hralkh01&bg_color=FF8C42&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FF8C42&hide_border=true&show_icons=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=hralkh01&bg_color=FF8C42&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_icons=true&hide_title=true" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=hralkh01&background=FF8C42&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=FFFFFF&hide_border=true" />
+<img height="150" src="https://streak-stats.demolab.com?user=hralkh01&background=FF8C42&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=FFFFFF&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hralkh01&layout=compact&bg_color=FF8C42&title_color=FFFFFF&text_color=FFFFFF&border_color=FF8C42&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hralkh01&layout=compact&bg_color=FF8C42&title_color=FFFFFF&text_color=FFFFFF&border_color=FF8C42&hide_border=true" />
 
 </div>
 
